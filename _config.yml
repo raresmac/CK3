@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Maco's Realm
+email: raresmac1@gmail.com
+url: https://raresmac.github.io/CK3
+description: "Step into a world of medieval strategy, dynastic intrigue, and epic storytelling. Here, I share my personal adventures, detailed guides, and tips for mastering Crusader Kings 3. Whether you're a new ruler or a seasoned monarch, you'll find strategies for managing your kingdom, waging wars, and navigating the complex web of relationships that define this immersive grand strategy game."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
